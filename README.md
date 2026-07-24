@@ -1,4 +1,4 @@
-# Dcodelabes Project 4
+
 ---
 title: Intelligent Vision Dashboard
 emoji: 💻
