@@ -259,9 +259,6 @@ This internship provided hands-on experience in developing production-style AI a
 
 ### Connect with Me
 
-**GitHub**
-
-https://github.com/MuhammadSufyanFarzand
 
 **LinkedIn**
 
