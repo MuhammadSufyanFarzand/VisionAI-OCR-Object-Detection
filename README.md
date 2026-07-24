@@ -1,5 +1,5 @@
 ---
-Dcodelabes Project-4
+Dcodelabes Project 4
 title: Intelligent Vision Dashboard
 emoji: 💻
 colorFrom: green
