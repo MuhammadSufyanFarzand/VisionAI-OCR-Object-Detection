@@ -1,13 +1,4 @@
-
----
-title: Intelligent Vision Dashboard
-emoji: 💻
-colorFrom: green
-colorTo: blue
-sdk: gradio
-app_file: app.py
-pinned: false
----
+# Dcodelabes Project 4
 
 # Intelligent Vision Dashboard
 
